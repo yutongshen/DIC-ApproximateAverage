@@ -1,6 +1,8 @@
-# Digital IC Design Homework
+# Digital IC Design
 
-## DIC HW3-ApproximateAverage
+## Approximate Average
+
+### Introduction
 
 ## AUTHORS
 [Yu-Tong Shen](https://github.com/yutongshen/)
